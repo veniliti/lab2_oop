@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Material Faculty="Факультет інформатики" Department="Кафедра програмної інженерії" MaterialType="Textbook" Volume="320" CreationDate="2023-09-01">
+    <AuthorFullName>Коваленко Олена Петрівна</AuthorFullName>
+    <Title>Алгоритми та структури даних</Title>
+  </Material>
+  <Material Faculty="Факультет інформатики" Department="Кафедра інформаційних систем" MaterialType="Article" Volume="12">
+    <AuthorFullName>Шевченко Андрій Іванович</AuthorFullName>
+    <Title>Методи оптимізації запитів до баз даних</Title>
+  </Material>
+  <Material Faculty="Факультет інформатики" Department="Кафедра програмної інженерії" MaterialType="Guide">
+    <AuthorFullName>Мельник Ірина Василівна</AuthorFullName>
+    <Title>Методичні вказівки до лабораторних робіт з C#</Title>
+  </Material>
+  <Material Faculty="Фізико-математичний факультет" MaterialType="Notes">
+    <AuthorFullName>Бондаренко Максим Олегович</AuthorFullName>
+    <Title>Конспект лекцій з математичного аналізу</Title>
+  </Material>
+  <Material Faculty="Фізико-математичний факультет" Department="Кафедра вищої математики" MaterialType="Other" Volume="20" CreationDate="2025-06-10">
+    <AuthorFullName>Ткаченко Наталія Сергіївна</AuthorFullName>
+    <Title>Положення про курсові роботи</Title>
+  </Material>
+  <Material Faculty="Факультет інформатики" Department="Кафедра інформаційних систем" MaterialType="Textbook" Volume="410" CreationDate="2024-02-14">
+    <AuthorFullName>Шевченко Андрій Іванович</AuthorFullName>
+    <Title>Бази даних та інформаційні системи</Title>
+  </Material>
+  <Material Faculty="Фізико-математичний факультет" Department="Кафедра вищої математики" MaterialType="Textbook" Volume="280">
+    <AuthorFullName>Лисенко Петро Андрійович</AuthorFullName>
+    <Title>Лінійна алгебра та аналітична геометрія</Title>
+  </Material>
+  <Material Faculty="Факультет інформатики" MaterialType="Article" Volume="9" CreationDate="2025-11-03">
+    <AuthorFullName>Коваленко Олена Петрівна</AuthorFullName>
+    <Title>Паралельні алгоритми обробки графів</Title>
+  </Material>
+</Archive>
